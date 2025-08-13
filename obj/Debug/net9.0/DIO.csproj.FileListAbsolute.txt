@@ -1,0 +1,14 @@
+E:\DIO\obj\Debug\net9.0\DIO.GeneratedMSBuildEditorConfig.editorconfig
+E:\DIO\obj\Debug\net9.0\DIO.AssemblyInfoInputs.cache
+E:\DIO\obj\Debug\net9.0\DIO.AssemblyInfo.cs
+E:\DIO\obj\Debug\net9.0\DIO.csproj.CoreCompileInputs.cache
+E:\DIO\bin\Debug\net9.0\DIO.exe
+E:\DIO\bin\Debug\net9.0\DIO.deps.json
+E:\DIO\bin\Debug\net9.0\DIO.runtimeconfig.json
+E:\DIO\bin\Debug\net9.0\DIO.dll
+E:\DIO\bin\Debug\net9.0\DIO.pdb
+E:\DIO\obj\Debug\net9.0\DIO.dll
+E:\DIO\obj\Debug\net9.0\refint\DIO.dll
+E:\DIO\obj\Debug\net9.0\DIO.pdb
+E:\DIO\obj\Debug\net9.0\DIO.genruntimeconfig.cache
+E:\DIO\obj\Debug\net9.0\ref\DIO.dll

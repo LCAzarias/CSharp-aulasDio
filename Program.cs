@@ -10,6 +10,7 @@ calc.Subtrair(25, 10);
 calc.Multiplicar(24, 6);
 calc.Dividir(30, 10);
 calc.Potencia(6, 2);
+calc.Seno(30);
 
 
 

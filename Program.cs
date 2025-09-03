@@ -3,14 +3,24 @@
 
 using DIO.Models;
 
-Calculadora calc = new Calculadora();
+ Calculadora calc = new Calculadora();
 
-calc.Somar(10, 30);
-calc.Subtrair(25, 10);
-calc.Multiplicar(24, 6);
-calc.Dividir(30, 10);
-calc.Potencia(6, 2);
-calc.Seno(30);
+// calc.Somar(10, 30);
+// calc.Subtrair(25, 10);
+// calc.Multiplicar(24, 6);
+// calc.Dividir(30, 10);
+// calc.Potencia(6, 2);
+// calc.Seno(30);
+calc.RaizQuadrada(9);
+
+
+// int numero = 10;
+// Console.WriteLine("Numero incrementado 10");
+// numero--;
+// Console.WriteLine(numero);
+
+
+
 
 
 

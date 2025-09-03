@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
@@ -8,6 +9,7 @@ namespace DIO.Models
 {
     public class Calculadora
     {
+
         public void Somar(int x, int y)
         {
             Console.WriteLine($"{x} + {y} = {x + y}");
@@ -34,6 +36,15 @@ namespace DIO.Models
             double radiano = angulo * Math.PI / 180;
             double seno = Math.Sin(radiano);
             Console.WriteLine($"Seno de {angulo}° = {seno}");
+        }
+
+
+
+        public void RaizQuadrada(double x)
+
+        {
+            double raiz = Math.Sqrt(x);
+            Console.WriteLine($"Raiz Quadrada de {x} = {raiz}");
         }
     }
 }

@@ -3,7 +3,51 @@
 
 using DIO.Models;
 
- Calculadora calc = new Calculadora();
+
+
+
+
+   int soma = 0, numero = 0;
+
+   do
+   {
+      Console.WriteLine("Digite um nº (ou digite 0 p/ parar):");
+      numero = Convert.ToInt32(Console.ReadLine());
+
+      soma += numero;
+   } while (numero != 0);
+
+   Console.WriteLine($"O Total é: {soma}");
+
+
+
+//int numero = 5;
+
+//for(int contador = 0; contador <= 10; contador++)
+
+//    {
+//    Console.WriteLine($"numero x {contador} = {numero * contador}");
+//    }
+
+//int numero = 5;
+//int contador = 1;
+
+//while (contador <= 10)
+
+//{
+
+//    Console.WriteLine($"{contador + 1} * Execução:  {numero} * {contador} = {numero * contador}");
+//    contador++;
+
+//    if (contador == 7)
+//    {
+//        break;
+//    }
+
+
+//}
+
+ //Calculadora calc = new Calculadora();
 
 // calc.Somar(10, 30);
 // calc.Subtrair(25, 10);
@@ -11,7 +55,7 @@ using DIO.Models;
 // calc.Dividir(30, 10);
 // calc.Potencia(6, 2);
 // calc.Seno(30);
-calc.RaizQuadrada(9);
+//calc.RaizQuadrada(9);
 
 
 // int numero = 10;
